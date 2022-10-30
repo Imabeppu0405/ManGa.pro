@@ -8,7 +8,6 @@ export default defineConfig({
                 'resources/css/app.css',
                 'resources/js/app.js',
                 'resources/js/api/steamApi.js',
-                'resources/js/api/translationApi.js'
             ],
             refresh: true,
         }),
