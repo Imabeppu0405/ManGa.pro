@@ -15,7 +15,7 @@
                     </div>
                 </div>
 
-                <p class="pt-6 text-gray-600 text-lg">ManGaはステータスごとにあなたのゲームを管理するWebアプリケーションです。ver1.30</p>
+                <p class="pt-6 text-gray-600 text-lg">ManGaはステータスごとにあなたのゲームを管理するWebアプリです。ver1.30</p>
               </div>
         </div>
     </div>
